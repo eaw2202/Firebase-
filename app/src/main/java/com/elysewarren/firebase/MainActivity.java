@@ -22,4 +22,4 @@ public class MainActivity extends AppCompatActivity {
         personRef.setValue(new Person("Xi", 100, true));
     }
 }
-}
+
